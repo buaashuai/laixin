@@ -6,7 +6,7 @@ class Component2 extends Component {
     render () {
         return (
             <div>
-                <h3>DEMO 2, JSX syntax</h3>
+                <h3>DEMO 2, JSX syntax你好啊</h3>
                 <ul>
                     {
                         names.map( (name) => {
